@@ -76,3 +76,6 @@ nav:
         - Lint Staged: api/configuration/lint_staged.md
         - Commitlint: api/configuration/commitlint.md
         - Standard Version: api/configuration/standard_version.md
+  - Blockchain:
+    - Choix de la blockchain: blockchain/blockchain.md
+    - Oracle: blockchain/oracle.md
